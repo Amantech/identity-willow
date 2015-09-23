@@ -1,0 +1,7 @@
+{
+  "clientId": "456521938879-jhjg8u7fa6rp2gon7qubs1ntn8csedht.apps.googleusercontent.com",
+  "serviceAccountEmail": "456521938879-ddbftf52vo7771g0ludi4vsfd6ar1g9v@developer.gserviceaccount.com",
+  "serviceAccountPrivateKeyFile": "identity-willow-0329de998505.p12",
+  "widgetUrl": "http://localhost:4567/gitkit",
+  "cookieName": "gtoken"
+}
